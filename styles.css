@@ -1,0 +1,99 @@
+/* CitySchools Collaborative — IST Study Website Styles */
+
+/* Footer */
+.page-footer {
+  background-color: #f8f9fa;
+  border-top: 1px solid #dee2e6;
+  padding: 1.5rem 2rem;
+  font-size: 0.85rem;
+  color: #555;
+  line-height: 1.6;
+}
+
+/* CTA Buttons */
+.cta-buttons {
+  margin: 1.5rem 0;
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.6rem 1.4rem;
+  border-radius: 4px;
+  font-weight: 600;
+  text-decoration: none !important;
+  transition: background-color 0.2s ease;
+}
+
+.btn-primary {
+  background-color: #1a5276;
+  color: #fff !important;
+}
+
+.btn-primary:hover {
+  background-color: #154360;
+}
+
+.btn-secondary {
+  background-color: #e8f0f7;
+  color: #1a5276 !important;
+  border: 1px solid #1a5276;
+}
+
+.btn-secondary:hover {
+  background-color: #d0e3f0;
+}
+
+/* Impact stats table */
+.impact-stats table {
+  width: 100%;
+  text-align: center;
+  border: none;
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: #1a5276;
+}
+
+.impact-stats table td {
+  border: none;
+  padding: 0.5rem;
+}
+
+/* Hero section */
+h1.title {
+  font-size: 2.2rem;
+  color: #1a5276;
+  font-weight: 700;
+}
+
+.subtitle {
+  font-size: 1.15rem;
+  color: #444;
+  margin-bottom: 1.5rem;
+}
+
+/* General */
+body {
+  font-family: 'Georgia', serif;
+  color: #222;
+}
+
+h2 {
+  color: #1a5276;
+  margin-top: 2rem;
+}
+
+h3 {
+  color: #1a5276;
+}
+
+a {
+  color: #1a5276;
+}
+
+a:hover {
+  color: #154360;
+  text-decoration: underline;
+}

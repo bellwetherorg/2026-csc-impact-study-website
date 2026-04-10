@@ -1,0 +1,46 @@
+---
+title: "About Bellwether"
+subtitle: "The independent research organization evaluating the IST study"
+format: html
+editor: visual
+
+
+---
+
+## Who We Are
+
+Bellwether is a national nonprofit organization that works to transform education for underserved students. Through research, policy analysis, and advisory work, Bellwether helps education organizations of all kinds improve their effectiveness and drive meaningful change for students.
+
+For the IST study, Bellwether serves as the independent evaluator, meaning Bellwether's team conducts the research on tutoring outcomes and implementation separately from CSC's program team. This independence is essential to producing credible findings.
+
+Read more about Bellwether at [bellwether.org](https://bellwether.org).
+
+---
+
+## Bellwether's Related Work
+
+With experience manipulating existing datasets, designing instruments, collecting original data, and executing various qualitative and quantitative analytic methods, the Bellwether evaluation team has served a variety of education agencies and public school clients. It has deep experience designing and conducting impact studies designed to meet WWC standards with and without reservations, including serving as the external evaluator for an Education Innovation and Research grant, three Charter Schools Program Replication and Expansion Grants, two Statewide Family Engagement Center Grants, a Full Service Community Schools Grant, and two Teacher Quality Program Grants that all employ quasi-experimental methods to assess program impact.
+
+Bellwether also has expertise in tutoring and tutoring design, having created the Tutoring Quality Improvement System in collaboration with Stanford University to help districts and schools assess the quality of their tutoring. [Read more here.](https://nssa.stanford.edu/tqis/quality-standards)
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).

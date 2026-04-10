@@ -1,0 +1,63 @@
+---
+title: "For Parents and Families"
+subtitle: "How will this study impact my student?"
+format: html
+editor: visual
+
+---
+
+## What does this study mean for my student?
+
+If your student's school participates in this program, your student may be selected to receive free literacy tutoring during the school day. Here's what that looks like:
+
+- **Tutoring happens during school hours:** no after-school pickup or additional scheduling required for families
+- **Sessions are small-group or one-to-one:** your student gets personalized help where they need it the most
+- **Tutoring is aligned to the Science of Reading:** tutoring curriculum is research-backed and builds on what your child is learning in class
+- **There is no cost to families:** all tutoring costs are covered by CSC and your student's school
+
+---
+
+## Will my student's information be shared?
+
+Student privacy is a top priority. Any information collected as part of the research study follows federal privacy laws and district/state data agreements. Results from the study will be reported in aggregate, meaning no individual student or school is identified in any published findings. Additionally, all data for the study will remain confidential and secure in each of the following ways:
+
+- All survey data will be made unidentifiable before being sent to Bellwether.
+- All student academic test scores and program data will be stored in a secure, access-controlled environment accessible only to authorized Bellwether research personnel.
+- All data will be shared directly into secure folders or via encrypted transfer.
+- Bellwether will comply with FERPA, applicable state privacy laws, and all data security provisions in the data sharing agreement made with each school.
+- All data will be destroyed or returned to each data sharing partner when the study is over.
+
+---
+
+## Can I opt my student out of the study?
+
+If your student has been selected for tutoring, your school will notify you and provide a Parent/Guardian Consent Form to ask whether you allow your student to participate in the study aspect of the program. If your student receives tutoring, please fill out the Parent/Guardian Consent Form and return it to your school, even if you do not want your student to participate in the study. Having the "do not consent" on file will help ensure that schools share data only from students whose parents or guardians have consented to the study. **Your student will still receive tutoring, even if you do not consent to them participating in the study.**
+
+---
+
+## Have more questions?
+
+[Contact Us →](mailto:cscstudy@bellwether.org){.btn .btn-primary}
+
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).

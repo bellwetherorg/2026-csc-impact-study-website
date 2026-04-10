@@ -1,0 +1,66 @@
+---
+title: "What Schools Receive"
+subtitle: "Joining the IST study means real support, not just materials. Here's exactly what your school receives."
+format: html
+editor: visual
+
+---
+
+## Tutoring for Students
+
+All participating schools receive subsidized access to Science-of-Reading–aligned literacy tutoring for students in grades 4–8. Tutoring is:
+
+- Delivered during the school day, with no after-school logistics required
+- Provided in small groups or one-to-one settings for personalized instruction
+- Delivered in sessions at least 90 minutes a week for at least ten weeks
+- Focused on the core skills the Science of Reading identifies as foundational: phonics, fluency, vocabulary, and comprehension
+- Delivered by experienced and vetted tutoring providers that partner with CSC
+
+---
+
+## Implementation Support
+
+In either SY 2026–27 or SY 2027–28, schools will receive:
+
+### Structured Planning Support via Design Sprints
+
+Design Sprints consist of four half-day sessions, delivered once a week across four weeks. During these sprints, CSC works with your school team to build tutoring into your existing schedule, identifying the right time blocks, student groups, and logistics before tutoring begins. They are cohort-based and aim to help school teams shift mindsets and build technical skills to launch and support higher-quality, higher-impact tutoring interventions. Design Sprints will likely be in person, but could be virtual or hybrid depending on LEA preference. Design sprint topics include:
+
+- **Session 1:** Grounding in Equity and Aligning on Tutoring
+- **Session 2:** Clarifying the Problem Through Data
+- **Session 3:** Gathering Empathy and Insight
+- **Session 4:** Designing for Impact
+
+### Ongoing Coaching and Communities of Practice
+
+CSC coaches check in regularly with school points of contact and tutoring providers to troubleshoot challenges and ensure quality. Schools will also connect with other schools during Community of Practice check-ins to offer peer support and brainstorming.
+
+### Quality Monitoring
+
+CSC observes tutoring at least twice a year using its HIT Evaluation Tool to assess fidelity to the model and provides data tools for schools to track whether tutoring is happening consistently and at the right dosage.
+
+### Sustainability Planning
+
+CSC will help schools create a long-term plan for integrating tutoring into their schedules and future budgets.
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).

@@ -1,0 +1,69 @@
+---
+title: "How Participation Works"
+subtitle: "CSC makes participating in the IST study simple and easy. Here's what the process looks like for schools, from interest to implementation."
+format: html
+editor: visual
+
+
+---
+
+## What Schools Are Asked to Do
+
+Participating schools commit to a focused set of actions that CSC supports throughout:
+
+1. **Designate a point of contact:** One staff member (often an assistant principal, literacy coach, or instructional coordinator) serves as the primary liaison with CSC staff.
+2. **Sign a Data Sharing Agreement (DSA):** A standard agreement that allows CSC and researchers to access existing student roster and assessment data. This follows all applicable federal and state privacy laws.
+3. **Identify 50 or more eligible students:** Work with CSC to determine which students in grades 4–8 would benefit most from literacy tutoring.
+4. **Schedule tutoring time during the Design Sprint:** Carve out approximately 90 minutes per week of tutoring time during the school day, for a minimum of 10 weeks. CSC facilitates and supports this planning.
+5. **Share a student roster:** Before tutoring begins, share the list of students receiving tutoring.
+6. **Implement HIT:** Implement 90 minutes a week of tutoring for at least 10 weeks for identified students.
+7. **Allow observations:** Allow CSC to monitor tutoring via two observations a year.
+8. **Share interim assessment data:** If your LEA cannot share interim literacy assessment data (NWEA MAP, i-Ready, etc.), schools will be expected to share participating students' interim assessment data at the end of the school year.
+9. **Encourage staff, students, and families to complete surveys:** Annual feedback surveys help CSC continuously improve its programming.
+10. **Participate in brief research activities:** Some schools may be asked to participate in site visits or interviews with staff, families, and leaders to help researchers understand how implementation is working.
+
+CSC staff and the Bellwether research team work with your team throughout this process.
+
+---
+
+## Year-at-a-Glance Timeline
+
+| | Jun–Jul | Aug–Sep | Oct–Nov | Dec–Jan | Feb–Mar | Apr–May |
+|---|---|---|---|---|---|---|
+| **Tutoring activities (all schools)** | All participating schools are matched to tutoring providers | Tutoring begins | CSC conducts tutoring observation; Tutors, students, parents, and staff complete surveys | | CSC conducts tutoring observation | Tutors, students, parents, and staff complete surveys |
+| | | | **All schools submit session-level tutoring attendance monthly** | | | |
+| **IST activities** | Schools participate in kickoff meetings with CSC | Schools participate in Design Sprints to customize their tutoring design | Schools participate in Design Sprints to customize their tutoring design | Schools virtually check in with CSC on implementation; CoP meeting | Schools virtually check in with CSC on implementation; CoP meeting | Schools virtually check in with CSC on implementation |
+| **Study activities** | Schools are randomized to groups | Bellwether collects administrative data | Bellwether collects administrative data | Bellwether collects administrative data | Bellwether conducts interviews | Bellwether collects and analyzes data; reports findings |
+
+::: {.callout-note}
+No study activities will take place during schools' state testing period.
+:::
+
+---
+
+## Ready to Get Started?
+
+[Sign Up to Participate →](sign-up.qmd){.btn .btn-primary}
+[Contact Us with Questions →](contact.qmd){.btn .btn-secondary}
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).

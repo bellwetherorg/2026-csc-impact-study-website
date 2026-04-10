@@ -1,0 +1,185 @@
+---
+title: "About CitySchools Collaborative (CSC)"
+subtitle: "Building the systems that help schools make tutoring work"
+format: html
+editor: visual
+
+
+---
+
+## Who We Are
+
+CitySchools Collaborative (CSC) is a nonprofit organization dedicated to expanding access to high-quality, high-impact tutoring for students who need it most. Based in Washington, DC, CSC works directly with schools and districts to build the planning infrastructure, coaching support, and quality monitoring systems that allow tutoring programs to succeed. CSC is DC's trusted partner in citywide initiatives related to tutoring, talent, and truancy, having served over 100 schools since 2021.
+
+---
+
+## Our Approach
+
+CSC's model goes beyond placing tutors in classrooms. We partner with schools to:
+
+- Align tutoring to the Science of Reading and to classroom instruction
+- Build consistent, protected time for tutoring into the school day
+- Monitor implementation to catch problems early
+- Use data to track progress and inform decision-making
+
+This comprehensive approach is what the IST study is designed to evaluate, and what CSC believes makes high-impact tutoring truly high-impact.
+
+Read more about us at [cityschoolscollab.org](https://cityschoolscollab.org/).
+
+---
+
+## Who CSC Has Served
+
+CSC has worked with over 100 schools since 2020, including:
+
+:::::: {.columns}
+::: {.column width="33%"}
+1. Achievement Prep PCS
+2. Anacostia High School
+3. Ballou High School
+4. Ballou STAY High School
+5. Bancroft Elementary School
+6. Bard High School Early College DC
+7. Bridges PCS
+8. Brookland Middle School
+9. Capital City PCS – High School
+10. Capital City PCS – Lower School
+11. Capital City PCS – Middle School
+12. Capital Village PCS
+13. Cardozo Education Campus
+14. Center City PCS – Brightwood
+15. Center City PCS – Shaw
+16. Cesar Chavez Public Charter Schools for Public Policy
+17. Columbia Heights Education Campus
+18. DC Prep PCS
+19. DC Scholars PCS
+20. Deal Middle School
+21. Digital Pioneers Academy PCS – Capitol Hill
+22. District of Columbia International School
+23. Drew Elementary School
+24. Dunbar High School
+25. E.L. Haynes PCS – Elementary School
+26. E.L. Haynes PCS – High School
+27. E.L. Haynes PCS – Middle School
+28. Eagle Academy PCS – Congress Heights
+29. Eastern High School
+30. Eliot-Hine Middle School
+31. Friendship PCS – Armstrong Elementary
+32. Friendship PCS – Armstrong Middle
+33. Friendship PCS – Blow Pierce Elementary
+34. Friendship PCS – Blow Pierce Middle
+35. Friendship PCS – Technology Preparatory High School
+36. Garrison Elementary School
+37. Girls Global Academy PCS
+38. Global Citizens Public Charter School
+:::
+::: {.column width="33%"}
+39. H.D. Woodson High School
+40. Hart Middle School
+41. Hearst Elementary School
+42. Hendley Elementary School
+43. Hope Community PCS
+44. Houston Elementary School
+45. Howard University Middle School of Mathematics and Science PCS
+46. I Dream PCS
+47. IDEA Public Charter School
+48. Ida B. Wells Middle School
+49. Ingenuity Prep PCS
+50. Inspired Teaching Demonstration PCS
+51. Johnson Middle School
+52. Kelly Miller Middle School
+53. Ketcham Elementary School
+54. King Elementary School
+55. Kingsman Academy PCS
+56. KIPP DC – Promise Academy PCS
+57. KIPP DC – WILL Academy PCS
+58. Kramer Middle School
+59. Langley Elementary School
+60. Latin American Montessori Bilingual PCS
+61. Lawrence E. Boone Elementary School
+62. Lee Montessori PCS – Brookland
+63. Luke C. Moore High School
+64. Macfarland Middle School
+65. Maya Angelou Academy @ Youth Services Center
+66. Maya Angelou PCS – High School
+67. McKinley Technology High School
+68. Meridian PCS
+69. Miller Middle School
+70. Monument Academy PCS
+71. Moten Elementary School
+72. Mundo Verde Bilingual PCS – Calle Ocho
+73. Mundo Verde Bilingual PCS – J.F. Cook
+74. Noyes Elementary School
+75. Patterson Elementary School
+76. Paul PCS – International High School
+77. Payne Elementary School
+78. Peabody Elementary School
+:::
+::: {.column width="33%"}
+79. Perry Street Preparatory PCS
+80. Plummer Elementary School
+81. Powell Elementary School
+82. Randle Highlands Elementary School
+83. Raymond Elementary School
+84. (R)evolution Montessori
+85. Ron Brown College Preparatory High School
+86. Roosevelt STAY High School
+87. Simon Elementary School
+88. Smothers Elementary School
+89. Social Justice PCS
+90. Sojourner Truth PCS
+91. Sousa Middle School
+92. Stanton Elementary School
+93. Statesmen College Preparatory Academy for Boys PCS
+94. Stuart-Hobson Middle School
+95. Thomas Elementary School
+96. Thurgood Marshall Academy PCS
+97. Truesdell Education Campus
+98. Tubman Elementary School
+99. Turner Elementary School
+100. Two Rivers PCS – 4th Street
+101. Tyler Elementary School
+102. Van Ness Elementary School
+103. Walker-Jones Education Campus
+104. Washington Global PCS
+105. Washington Latin PCS
+106. Washington Leadership Academy PCS
+107. Washington Yu Ying PCS
+108. Wheatley Education Campus
+109. Whitlock Elementary School
+110. Wildflower Public Charter Schools
+111. Wilson High School
+:::
+::::::
+
+Read more about how CSC has impacted these schools in their [annual impact reports](https://cityschoolscollab.org/).
+
+---
+
+## Proven Results
+
+A previous study of CSC's tutoring program found that students who received high-intensity math tutoring from CSC providers in 2023–2025 received the equivalent of an additional 59 instructional days and achieved, on average, 138% of their expected growth on math assessments.
+
+[→ Read the QED Report](https://www.empowerk12.org/research-source/2025-csc-hit-impact-evaluation)
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).

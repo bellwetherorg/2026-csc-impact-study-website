@@ -1,0 +1,70 @@
+---
+title: "Resources"
+subtitle: "Learn more about the research behind this work and high-impact tutoring"
+format: html
+editor: visual
+
+
+---
+
+## About High-Impact Tutoring (HIT)
+
+### What is high-impact tutoring?
+
+High-impact tutoring (HIT) refers to tutoring that meets specific quality thresholds that research has found to produce meaningful gains in student learning. Key features of high-impact tutoring include:
+
+- **Frequency and dosage:** Sessions occur at least three times per week, for 30 minutes or more per week, for at least 10 weeks
+- **Small groups or one-to-one:** Tutors work with no more than four students at a time
+- **High-quality, Science-of-Reading–aligned curriculum materials**
+
+Research consistently finds that high-impact tutoring can produce significant gains for struggling students, particularly in reading and math. The IST study focuses specifically on literacy tutoring for students in grades 4–8.
+
+**Learn more about the benefits of high-impact tutoring:**
+
+- [Tutoring quality standards](https://nssa.stanford.edu/tqis/quality-standards)
+- [HIT tutoring toolkit](https://nssa.stanford.edu/toolkit-tutoring-programs)
+- [Research briefs on HIT](https://nssa.stanford.edu/briefs)
+
+---
+
+## Previous CSC Study Report
+
+A previous study of CSC's tutoring program found that students who received high-intensity math tutoring from CSC providers in 2023–2025 received the equivalent of an additional 59 instructional days and achieved, on average, 138% of their expected growth on math assessments.
+
+[→ Read the QED Report](https://www.empowerk12.org/research-source/2025-csc-hit-impact-evaluation)
+
+---
+
+## About the Science of Reading
+
+The Science of Reading is a decades-long body of research from cognitive science, linguistics, and education that explains how reading develops. It emphasizes systematic, explicit instruction in the five key areas identified by the National Reading Panel: phonemic awareness, phonics, fluency, vocabulary, and comprehension.
+
+CSC's tutoring program is designed to be fully aligned with Science of Reading principles, ensuring students receive instruction that is grounded in what the research shows works.
+
+**Learn more:**
+
+- [Defining the Science of Reading](https://improvingliteracy.org/resource/the-science-of-reading-an-overview/)
+- [In-depth guide to the Science of Reading](https://www.thereadingleague.org/what-is-the-science-of-reading/)
+- [Resources supported by the Maryland State Education Association](https://marylandeducators.org/the-science-of-reading/)
+---
+
+## Quarto
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+
+## Running Code
+
+When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+You can add options to executable code like this
+
+```{r}
+#| echo: false
+2 * 2
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
