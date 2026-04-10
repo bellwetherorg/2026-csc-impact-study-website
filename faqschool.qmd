@@ -3,8 +3,6 @@ title: "Frequently Asked Questions"
 subtitle: "For Schools and Districts"
 format: html
 editor: visual
-
-
 ---
 
 ## Is there a cost to participate?
@@ -13,102 +11,105 @@ CSC will provide subsidies that cover all or most of the cost of tutoring. The c
 
 ::: {.callout-note appearance="simple"}
 ### Virtual Tutoring Provider
+
 School A engages with TFA Ignite. Students meet with college tutors virtually. A school staff member serves as a site leader to supervise students during sessions and liaise with TFA Ignite to manage the program. School A ensures students have working technology and designates a tutoring space. CSC funding subsidizes the cost of virtual tutors and provides a stipend for the TFA Ignite site leader, a School A teacher.
 
-**Required School Costs: ~$500/student for tutoring**
+**Required School Costs: \~\$500/student for tutoring**
 :::
 
 ::: {.callout-note appearance="simple"}
 ### In-Person Tutoring Provider
+
 School B engages with Reading Assist. Reading Assist provides tutors and employs a program manager that supports tutors across a few schools and coordinates with school leadership. CSC funding to Reading Assist subsidizes the program cost including tutors, materials, and site management.
 
-**Required School Costs: ~$750/student for tutoring (receives full-time staff as tutors)**
+**Required School Costs: \~\$750/student for tutoring (receives full-time staff as tutors)**
 :::
 
 ::: {.callout-note appearance="simple"}
 ### Staff-Led Model
+
 School C uses their own staff to lead tutoring groups throughout the day as part of their regular responsibilities. School C has assigned an instructional coach to manage student assignments, track session-level student data, provide coaching, and manage reporting. CSC provides a stipend for the instructional coach managing the program; staff-tutors' full salaries are included in the School C budget.
 
-**Required School Costs: ~$200–600/student for tutoring**
+**Required School Costs: \~\$200–600/student for tutoring**
 :::
 
----
+------------------------------------------------------------------------
 
 ## Will this replace our literacy curriculum?
 
 No. The tutoring program is specifically designed to complement and align with your school's existing core literacy instruction, not replace it. CSC works with your team to ensure tutoring reinforces what students are learning in their regular classes.
 
----
+------------------------------------------------------------------------
 
 ## How much time does tutoring take?
 
 Tutoring is approximately 90 minutes per week, delivered during the school day, for a minimum of 10 weeks. CSC works with school leaders to identify time blocks that fit your existing schedule. Tutoring can happen 1-on-1 or in small groups of up to four students.
 
----
+------------------------------------------------------------------------
 
 ## What grades are eligible?
 
 The program serves students in grades 4–8.
 
----
+------------------------------------------------------------------------
 
 ## What schools are eligible?
 
 All schools that serve at least one grade between grades 4 and 8 and are not special-purpose schools (e.g., schools for deaf students, schools in juvenile detention centers, language immersion schools, etc.) are eligible for the initiative.
 
----
+------------------------------------------------------------------------
 
 ## How are students selected for tutoring?
 
 Schools work with CSC to identify students who would benefit most from literacy support. CSC provides guidance on selection criteria based on student assessment data and teacher input.
 
----
+------------------------------------------------------------------------
 
 ## What about student data privacy?
 
 Student privacy is taken seriously at every level of this project. All data sharing follows applicable federal privacy laws (including FERPA) and district/state agreements. Research findings are reported in aggregate only without identifying individual students or schools. The research is conducted by Bellwether, an independent organization, in accordance with federal research standards. Bellwether will use the following practices to ensure data security throughout the evaluation:
 
-- Bellwether shall designate Dr. Daniela Torre Gibney as the person responsible for the security and confidentiality of the data and will notify all study partners immediately in writing of any change in designee. Bellwether will use appropriate safeguards to prevent the use or disclosure of the information other than as provided by the data sharing agreement. Dr. Torre Gibney shall instruct staff with access to confidential information about the requirements for handling confidential information.
-- All Bellwether staff use password-protected company computers and are required to go through rigorous training in computer security and safety.
-- All survey data will be made unidentifiable before being sent to Bellwether.
-- Only Bellwether IT staff and the assigned researchers working on the project will have access to sensitive individual-level data, including student academic test scores, program data, interview/focus group notes, and interview/focus group recordings.
-- All study data will be stored in a secure, access-controlled Google Drive folder, accessible only to authorized Bellwether research personnel. Within the folder will be sub-folders for each participating school, which will be shared only with the corresponding school contact for each folder. Schools will be able to upload their data directly into their individual Google Drive folder. If any participating school has a preferred method of secure data transfer, Bellwether will set up those processes.
-- All program, survey, assessment, and other data will be shared via encrypted transfer if not uploaded directly to Google Drive. No data will be shared via email.
-- No study data will be stored on unencrypted laptop computers or other portable computing devices or media (e.g., flash drives).
-- Bellwether will comply with FERPA, applicable state privacy laws, and all data security provisions in the data sharing agreement made with each school.
-- All data will be destroyed or returned to each data sharing partner when the study is over, as laid out in the DSA or MOU with each partner.
+-   Bellwether shall designate Dr. Daniela Torre Gibney as the person responsible for the security and confidentiality of the data and will notify all study partners immediately in writing of any change in designee. Bellwether will use appropriate safeguards to prevent the use or disclosure of the information other than as provided by the data sharing agreement. Dr. Torre Gibney shall instruct staff with access to confidential information about the requirements for handling confidential information.
+-   All Bellwether staff use password-protected company computers and are required to go through rigorous training in computer security and safety.
+-   All survey data will be made unidentifiable before being sent to Bellwether.
+-   Only Bellwether IT staff and the assigned researchers working on the project will have access to sensitive individual-level data, including student academic test scores, program data, interview/focus group notes, and interview/focus group recordings.
+-   All study data will be stored in a secure, access-controlled Google Drive folder, accessible only to authorized Bellwether research personnel. Within the folder will be sub-folders for each participating school, which will be shared only with the corresponding school contact for each folder. Schools will be able to upload their data directly into their individual Google Drive folder. If any participating school has a preferred method of secure data transfer, Bellwether will set up those processes.
+-   All program, survey, assessment, and other data will be shared via encrypted transfer if not uploaded directly to Google Drive. No data will be shared via email.
+-   No study data will be stored on unencrypted laptop computers or other portable computing devices or media (e.g., flash drives).
+-   Bellwether will comply with FERPA, applicable state privacy laws, and all data security provisions in the data sharing agreement made with each school.
+-   All data will be destroyed or returned to each data sharing partner when the study is over, as laid out in the DSA or MOU with each partner.
 
----
+------------------------------------------------------------------------
 
 ## How long is the commitment?
 
 Most schools offer tutoring for two academic years, depending on interest, capacity, and study design. CSC will discuss the specifics of the timeline with your school during the sign-up process. CSC's hands-on support will last one academic year for each school.
 
----
+------------------------------------------------------------------------
 
 ## What if my school is assigned to the delayed treatment group?
 
 All participating schools receive access to literacy tutoring in Year 1 (2026–27). Schools in the delayed implementation group receive CSC's full planning and coaching support in Year 2 (2027–28). The delayed group still receives all the benefits of participation.
 
----
+------------------------------------------------------------------------
 
 ## Will this interfere with state testing or other assessments?
 
 CSC works with your school team during the planning phase to build a tutoring schedule that accounts for testing calendars and other school priorities to minimize disruption and maximize consistency. No research activities will take place during your school's state testing window.
 
----
+------------------------------------------------------------------------
 
 ## What if we need to pause or stop tutoring?
 
 CSC understands that schools face unexpected challenges. Your CSC contact will work with you to navigate any scheduling disruptions.
 
----
+------------------------------------------------------------------------
 
 ## Who conducts the tutoring?
 
 Schools can select to train their existing support staff to serve as tutors or receive support from CSC to select one of its experienced, vetted tutoring providers to deliver tutoring directly to students. CSC staff oversee implementation quality and provide coaching and support. Your school designates a point of contact who works with CSC throughout the process.
 
----
+------------------------------------------------------------------------
 
 ## What is the Science of Reading?
 
@@ -116,161 +117,139 @@ The Science of Reading refers to a body of research spanning cognitive science, 
 
 **Learn more:**
 
-- [Defining the Science of Reading](https://improvingliteracy.org/resource/the-science-of-reading-an-overview/)
-- [In-depth guide to the Science of Reading](https://www.thereadingleague.org/what-is-the-science-of-reading/)
-- [Stocktaking report on approaches to reading](https://bellwether.org/wp-content/uploads/2024/01/OntheSamePage_Bellwether_January2024.pdf)
-- [Resources supported by the Maryland State Education Association](https://marylandeducators.org/the-science-of-reading/)
+-   [Defining the Science of Reading](https://improvingliteracy.org/resource/the-science-of-reading-an-overview/)
+-   [In-depth guide to the Science of Reading](https://www.thereadingleague.org/what-is-the-science-of-reading/)
+-   [Stocktaking report on approaches to reading](https://bellwether.org/wp-content/uploads/2024/01/OntheSamePage_Bellwether_January2024.pdf)
+-   [Resources supported by the Maryland State Education Association](https://marylandeducators.org/the-science-of-reading/)
 
----
+------------------------------------------------------------------------
 
 ## When will the study begin?
 
 A kick-off meeting with all participating schools and CSC will take place virtually in July–August 2026.
 
----
+------------------------------------------------------------------------
 
 ## When will I know which tutoring provider my school will use?
 
 School leaders should select their tutoring provider by the end of July to prepare for the school year. CSC will help connect schools to potential providers.
 
----
+------------------------------------------------------------------------
 
 ## When will tutoring begin?
 
 Schools should submit their roster of students who will receive tutoring prior to the start of tutoring (October 1). Tutoring will begin in October 2026.
 
----
+------------------------------------------------------------------------
 
 ## When will I know if I'm in the treatment or delayed treatment group?
 
 Schools will learn of their treatment status by September 10, 2026 at the latest. Remember: All schools will receive tutoring and delayed treatment schools will receive one year of IST support.
 
----
+------------------------------------------------------------------------
 
 ## When will surveys be administered?
 
 Surveys will be administered in October–December and April–May of each academic year, starting in the fall of 2026.
 
----
+------------------------------------------------------------------------
 
 ## How many students will receive tutoring?
 
 A minimum of 50 students will receive tutoring at each school, though some schools may choose to fund tutoring for more students as needed.
 
----
+------------------------------------------------------------------------
 
 ## When will interviews and focus groups take place?
 
 Tutor and school staff interviews, as well as family focus groups, will take place in April or May, starting in 2027.
 
----
+------------------------------------------------------------------------
 
 ## What incentives will be offered to interview participants?
 
-Unless prohibited by your LEA, all interview and focus group participants will receive a $25 gift card, delivered electronically after the conversation.
+Unless prohibited by your LEA, all interview and focus group participants will receive a \$25 gift card, delivered electronically after the conversation.
 
----
+------------------------------------------------------------------------
 
 ## What is a Design Sprint?
 
 A Design Sprint is a multi-week (4), cohort-based program for school teams to shift mindsets and build technical skills to launch and support higher-quality, higher-impact tutoring interventions. Design Sprints will likely be in person, but could be virtual or hybrid depending on LEA preference and scheduling. Design Sprint topics include:
 
-- **Session 1:** Grounding in Equity and Aligning on Tutoring
-- **Session 2:** Clarifying the Problem Through Data
-- **Session 3:** Gathering Empathy and Insight
-- **Session 4:** Designing for Impact
+-   **Session 1:** Grounding in Equity and Aligning on Tutoring
+-   **Session 2:** Clarifying the Problem Through Data
+-   **Session 3:** Gathering Empathy and Insight
+-   **Session 4:** Designing for Impact
 
----
+------------------------------------------------------------------------
 
 ## Who is expected to participate in the Design Sprint from my school?
 
 3–4 individuals from each school typically attend. The group should include:
 
-- A decision maker (typically the principal)
-- Someone who understands the school's ELA academic program (usually an assistant principal or curriculum coach)
-- Someone who understands the school's schedule and/or roster (usually an assistant principal or counselor)
+-   A decision maker (typically the principal)
+-   Someone who understands the school's ELA academic program (usually an assistant principal or curriculum coach)
+-   Someone who understands the school's schedule and/or roster (usually an assistant principal or counselor)
 
----
+------------------------------------------------------------------------
 
 ## What will the Communities of Practice include?
 
 Within the CoPs, schools will gather to reflect on data, tackle common challenges, and make plans to strengthen implementation for the second half of the year.
 
----
+------------------------------------------------------------------------
 
 ## When will the Communities of Practice be held?
 
 CoP #1 will be in January 2027. CoP #2 will be in March–April 2027.
 
----
+------------------------------------------------------------------------
 
 ## When will coaching check-ins be held?
 
 Check-in #1 will be in December 2026. Check-in #2 will be in February–March 2027. Check-in #3 will be in May 2027.
 
----
+------------------------------------------------------------------------
 
 ## Will CoPs and coaching be in-person or virtual?
 
 Both CoPs and coaching check-ins will be held virtually.
 
----
+------------------------------------------------------------------------
 
 ## When will observations occur?
 
 CSC will observe tutoring twice throughout the year: in November–December 2026 and March–April 2027.
 
----
+------------------------------------------------------------------------
 
 ## What tutoring providers will CSC partner with?
 
 CSC plans to partner with multiple tutoring providers. Providers include Reading Partners, Reading Assist, and the University of Maryland.
 
----
+------------------------------------------------------------------------
 
 ## Was this study reviewed by an IRB?
 
 Yes. This study was reviewed by Sterling IRB (IRB ID: 16024-DTGibney) and received the Exempt determination for a Category 1 Exemption (Research conducted in established or commonly accepted educational settings, involving normal educational practices).
 
----
+------------------------------------------------------------------------
 
 ## What tutoring and support will each study group receive and when?
 
-| | Treatment Schools | Delayed Treatment Schools |
-|---|---|---|
+|   | Treatment Schools | Delayed Treatment Schools |
+|------------------------|------------------------|------------------------|
 | Onboarding support from CSC | Year 1 | Year 1 |
 | Design Sprint support | Year 1 | Year 2 |
 | Communities of Practice support | Year 1 | Year 2 |
 | Ongoing coaching from CSC | Year 1 | Year 2 |
 | Tutoring sustainability planning | Year 1 | Year 2 |
-| Subsidized tutoring | At least one year in Year 1, with opportunities for additional subsidized tutoring in Year 2* | Two years — both Year 1 and Year 2 |
+| Subsidized tutoring | At least one year in Year 1, with opportunities for additional subsidized tutoring in Year 2\* | Two years — both Year 1 and Year 2 |
 
-*Note: Subsidized tutoring supports in Year 2 will be based on each school's needs and CSC's available funds.
+\*Note: Subsidized tutoring supports in Year 2 will be based on each school's needs and CSC's available funds.
 
----
+------------------------------------------------------------------------
 
 ## I have more questions. Who can I contact?
 
-Reach out to [CSCstudy@bellwether.org](mailto:CSCstudy@bellwether.org). Bellwether will either answer the question or pass it along to CSC to answer, if appropriate.
----
-
-## Quarto
-
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
-
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+## Reach out to [CSCstudy\@bellwether.org](mailto:CSCstudy@bellwether.org). Bellwether will either answer the question or pass it along to CSC to answer, if appropriate.
