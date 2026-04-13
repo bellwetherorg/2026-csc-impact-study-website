@@ -4,7 +4,6 @@ project:
 
 website:
   title: "CitySchools Collaborative — IST Support Study"
-  site-url: "https://www.cityschoolscollab.org"
   navbar:
     left:
       - text: "Home"
@@ -12,27 +11,27 @@ website:
       - text: "About the Study"
         menu:
           - text: "Study Overview"
-            href: study-overview.qmd
+            href: studyoverview.qmd
           - text: "What Schools Receive"
-            href: what-schools-receive.qmd
+            href: whatschoolsreceive.qmd
           - text: "How Participation Works"
-            href: how-participation-works.qmd
+            href: howparticipationworks.qmd
       - text: "Research Partners"
         menu:
           - text: "About CitySchools Collaborative"
-            href: about-csc.qmd
+            href: aboutcsc.qmd
           - text: "About Bellwether"
-            href: about-bellwether.qmd
+            href: aboutbw.qmd
       - text: "FAQs"
         menu:
           - text: "For Schools and Districts"
-            href: faqs-schools.qmd
+            href: faqschools.qmd
           - text: "For Parents and Families"
-            href: faqs-families.qmd
+            href: faqfamilies.qmd
       - text: "Sign Up to Participate"
-        href: sign-up.qmd
+        href: signup.qmd
       - text: "Contact Us"
-        href: contact.qmd
+        href: contactus.qmd
       - text: "Resources"
         href: resources.qmd
 
