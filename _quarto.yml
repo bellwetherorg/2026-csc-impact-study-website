@@ -4,8 +4,8 @@ project:
 
 website:
   title: "CitySchools Collaborative — IST Support Study"
-  sidebar:
-    contents:
+  navbar:
+    left:
       - text: "Home"
         href: index.qmd
       - text: "About the Study"
