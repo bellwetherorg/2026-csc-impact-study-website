@@ -1,0 +1,59 @@
+project:
+  type: website
+  output-dir: docs
+  post-render:
+    - echo. > docs/.nojekyll
+
+website:
+  title: "CitySchools Collaborative — IST Support Study"
+site-url: "https://www.cityschoolscollab.org"
+navbar:
+  left:
+  - text: "Home"
+href: index.qmd
+- text: "About the Study"
+menu:
+  - text: "Study Overview"
+href: study-overview.qmd
+- text: "What Schools Receive"
+href: what-schools-receive.qmd
+- text: "How Participation Works"
+href: how-participation-works.qmd
+- text: "Research Partners"
+menu:
+  - text: "About CitySchools Collaborative"
+href: about-csc.qmd
+- text: "About Bellwether"
+href: about-bellwether.qmd
+- text: "FAQs"
+menu:
+  - text: "For Schools and Districts"
+href: faqs-schools.qmd
+- text: "For Parents and Families"
+href: faqs-families.qmd
+- text: "Sign Up to Participate"
+href: sign-up.qmd
+- text: "Contact Us"
+href: contact.qmd
+- text: "Resources"
+href: resources.qmd
+
+page-footer:
+  left: |
+  **Funding Disclosure**  
+  This project is supported by the Office of Elementary and Secondary Education (OESE), U.S. Department of Education, through the Education Innovation and Research (EIR) Mid-Phase Grant (ALN 84.411B) awarded to CitySchools Collaborative. The opinions expressed are those of the authors and do not necessarily represent the views of OESE or the U.S. Department of Education.
+
+**IRB Disclosure**  
+  This study was reviewed by Sterling IRB (IRB ID: 16024-DTGibney) and received the Exempt determination for a Category 1 Exemption (Research conducted in established or commonly accepted educational settings, involving normal educational practices).
+right: |
+  **CitySchools Collaborative**  
+  650 Massachusetts Ave NW, Suite 600 | Washington, DC 20001  
+[www.cityschoolscollab.org](https://www.cityschoolscollab.org)
+
+In partnership with Bellwether | [www.bellwether.org](https://www.bellwether.org)
+
+format:
+  html:
+  theme: cosmo
+css: styles.scss
+toc: false
