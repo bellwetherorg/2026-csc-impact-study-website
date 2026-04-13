@@ -89,7 +89,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.qmd"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -98,15 +98,15 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-about-the-study">    
         <li>
-    <a class="dropdown-item" href="./study-overview.qmd">
+    <a class="dropdown-item" href="./studyoverview.html">
  <span class="dropdown-text">Study Overview</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./what-schools-receive.qmd">
+    <a class="dropdown-item" href="./whatschoolsreceive.html">
  <span class="dropdown-text">What Schools Receive</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./how-participation-works.qmd">
+    <a class="dropdown-item" href="./howparticipationworks.html">
  <span class="dropdown-text">How Participation Works</span></a>
   </li>  
     </ul>
@@ -117,11 +117,11 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-research-partners">    
         <li>
-    <a class="dropdown-item" href="./about-csc.qmd">
+    <a class="dropdown-item" href="./aboutcsc.html">
  <span class="dropdown-text">About CitySchools Collaborative</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./about-bellwether.qmd">
+    <a class="dropdown-item" href="./aboutbw.html">
  <span class="dropdown-text">About Bellwether</span></a>
   </li>  
     </ul>
@@ -132,21 +132,21 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-faqs">    
         <li>
-    <a class="dropdown-item" href="./faqs-schools.qmd">
+    <a class="dropdown-item" href="./faqschools.html">
  <span class="dropdown-text">For Schools and Districts</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./faqs-families.qmd">
+    <a class="dropdown-item" href="./faqfamilies.html">
  <span class="dropdown-text">For Parents and Families</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./sign-up.qmd"> 
+    <a class="nav-link" href="./signup.html"> 
 <span class="menu-text">Sign Up to Participate</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./contact.qmd"> 
+    <a class="nav-link" href="./contactus.html"> 
 <span class="menu-text">Contact Us</span></a>
   </li>  
   <li class="nav-item">
@@ -436,7 +436,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/www\.cityschoolscollab\.org");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
