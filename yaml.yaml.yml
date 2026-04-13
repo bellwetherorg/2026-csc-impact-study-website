@@ -53,5 +53,5 @@ In partnership with Bellwether | [www.bellwether.org](https://www.bellwether.org
 format:
   html:
   theme: cosmo
-css: styles.css
+css: styles.scss
 toc: false
