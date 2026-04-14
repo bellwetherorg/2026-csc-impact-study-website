@@ -1,7 +1,6 @@
 ---
 title: "Frequently Asked Questions"
 subtitle: "For Schools and Districts"
-from: markdown+raw_html
 ---
 
 ## Is there a cost to participate?
