@@ -1,279 +1,226 @@
 /*-- scss:defaults --*/
 
-// Colors
-$primary-color: #1a5276;
-$primary-dark: #154360;
-$secondary-bg: #e8f0f7;
-$secondary-bg-hover: #d0e3f0;
-$hero-bg: #eaf3fb;
-$footer-bg: #f4f6f8;
-$footer-border: #dee2e6;
-$footer-text: #555555;
-$body-text: #222222;
-$subtitle-text: #444444;
+// Bootstrap variable overrides — these must go in scss:defaults
+// to take effect before Bootstrap compiles
 
-// Override Cosmo theme defaults
-$navbar-bg: #1a5276;
-$navbar-fg: #ffffff;
-$navbar-hl: #ffffff;
-$link-color: #1a5276;
-$font-family-base: Georgia, serif;
-$headings-color: #1a5276;
-$headings-font-weight: 500;
+$navbar-bg:                 #1a5276;
+$navbar-fg:                 #ffffff;
+$navbar-hl:                 #ffffff;
+
+$link-color:                #1a5276;
+$link-hover-color:          #154360;
+
+$body-color:                #222222;
+$body-bg:                   #ffffff;
+
+$font-family-base:          Georgia, "Times New Roman", serif;
+$font-family-sans-serif:    "Helvetica Neue", Arial, sans-serif;
+$headings-font-family:      Georgia, "Times New Roman", serif;
+$headings-color:            #1a5276;
+$headings-font-weight:      500;
+
+$font-size-base:            1rem;
+$line-height-base:          1.75;
+
+$border-radius:             6px;
+$border-radius-lg:          8px;
+$border-radius-sm:          4px;
+
+$btn-border-radius:         6px;
+$btn-border-radius-lg:      6px;
+$btn-border-radius-sm:      6px;
+
+$table-border-color:        #dee2e6;
+$table-striped-bg:          #eaf3fb;
 
 /*-- scss:rules --*/
 
 // Navbar
 .navbar {
-  background-color: $primary-color !important;
-  padding: 0.5rem 1.5rem;
-
-  .navbar-brand {
-    color: #ffffff !important;
-    font-size: 0.95rem;
-    font-weight: 500;
-  }
-
-  .nav-link {
-    color: rgba(255, 255, 255, 0.9) !important;
-    font-size: 0.875rem;
-    padding: 0.4rem 0.75rem;
-    border-radius: 4px;
-
-    &:hover {
-      color: #ffffff !important;
-      background-color: rgba(255, 255, 255, 0.15);
-    }
-  }
-
-  .dropdown-menu {
-    border: 0.5px solid $footer-border;
-    border-radius: 4px;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-
-    .dropdown-item {
-      font-size: 0.875rem;
-      color: $primary-color;
-      padding: 0.5rem 1rem;
-
-      &:hover {
-        background-color: $secondary-bg;
-        color: $primary-dark;
-      }
-    }
-  }
+  background-color: #1a5276 !important;
+  padding: 0.5rem 1.25rem;
 }
 
-// Hero section (homepage only)
-.hero-section {
-  background-color: $hero-bg;
-  padding: 3rem 2.5rem;
-  border-bottom: 1px solid $footer-border;
-  margin-bottom: 2rem;
-
-  h1 {
-    font-size: 2rem;
-    color: $primary-color;
-    font-weight: 500;
-    line-height: 1.3;
-    max-width: 700px;
-  }
-
-  p {
-    font-size: 1.05rem;
-    color: $subtitle-text;
-    max-width: 680px;
-    line-height: 1.75;
-    margin-bottom: 1.5rem;
-  }
-}
-
-// CTA buttons
-.cta-buttons {
-  display: flex;
-  gap: 0.75rem;
-  flex-wrap: wrap;
-  margin: 1.5rem 0;
-}
-
-.btn-primary-cta {
-  display: inline-block;
-  background-color: $primary-color;
+.navbar-brand {
   color: #ffffff !important;
-  font-size: 0.9rem;
+  font-family: $font-family-sans-serif;
+  font-size: 0.875rem;
   font-weight: 500;
-  padding: 0.6rem 1.4rem;
-  border-radius: 4px;
-  text-decoration: none !important;
-  border: none;
-  transition: background-color 0.2s ease;
-
-  &:hover {
-    background-color: $primary-dark;
-    color: #ffffff !important;
-  }
 }
 
-.btn-secondary-cta {
-  display: inline-block;
-  background-color: #ffffff;
-  color: $primary-color !important;
-  font-size: 0.9rem;
+.navbar .nav-link {
+  color: rgba(255, 255, 255, 0.88) !important;
+  font-family: $font-family-sans-serif;
+  font-size: 0.8125rem;
+  padding: 0.35rem 0.65rem !important;
+  border-radius: 3px;
+}
+
+.navbar .nav-link:hover,
+.navbar .nav-link:focus {
+  color: #ffffff !important;
+  background-color: rgba(255, 255, 255, 0.18);
+}
+
+.navbar .dropdown-menu {
+  border: 0.5px solid #dee2e6;
+  border-radius: 4px;
+}
+
+.navbar .dropdown-item {
+  font-family: $font-family-sans-serif;
+  font-size: 0.8125rem;
+  color: #1a5276;
+}
+
+.navbar .dropdown-item:hover {
+  background-color: #eaf3fb;
+  color: #154360;
+}
+
+// Page title and subtitle
+.quarto-title .title {
+  color: #1a5276;
+  font-family: Georgia, serif;
+  font-size: 1.75rem;
   font-weight: 500;
-  padding: 0.6rem 1.4rem;
-  border-radius: 4px;
-  text-decoration: none !important;
-  border: 1px solid $primary-color;
-  transition: background-color 0.2s ease;
-
-  &:hover {
-    background-color: $secondary-bg;
-  }
 }
 
-// Impact stats
-.impact-stats {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 1rem;
-  margin: 1.5rem 0;
-
-  .stat-box {
-    background-color: $secondary-bg;
-    border-radius: 6px;
-    padding: 1.25rem 1rem;
-    text-align: center;
-
-    .stat-number {
-      font-size: 1.75rem;
-      font-weight: 500;
-      color: $primary-color;
-      display: block;
-    }
-
-    .stat-label {
-      font-size: 0.8rem;
-      color: $footer-text;
-      margin-top: 0.25rem;
-      display: block;
-    }
-  }
+.quarto-title .description,
+.quarto-title .subtitle {
+  color: #555555;
+  font-size: 1rem;
+  font-family: Georgia, serif;
+  line-height: 1.7;
 }
 
-// Section headings
-h1, h2, h3, h4 {
-  color: $primary-color;
+// Headings
+h1, h2, h3, h4, h5, h6 {
+  color: #1a5276;
+  font-family: Georgia, serif;
 }
 
-h1 { font-size: 2rem; }
 h2 {
-  font-size: 1.4rem;
-  margin-top: 2rem;
+  font-size: 1.2rem;
+  font-weight: 500;
   padding-bottom: 0.4rem;
-  border-bottom: 1px solid $footer-border;
+  border-bottom: 0.5px solid #dee2e6;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
 }
-h3 { font-size: 1.15rem; }
+
+h3 {
+  font-size: 1.05rem;
+  font-weight: 500;
+  margin-top: 1.5rem;
+}
 
 // Body text
-body {
+p {
+  color: #444444;
   font-family: Georgia, serif;
-  color: $body-text;
-  font-size: 1rem;
   line-height: 1.75;
 }
 
-p { color: $subtitle-text; }
-
+// Links
 a {
-  color: $primary-color;
-
-  &:hover {
-    color: $primary-dark;
-    text-decoration: underline;
-  }
+  color: #1a5276;
 }
 
-// Page title area
-.quarto-title {
-  border-bottom: 2px solid $primary-color;
-  padding-bottom: 1rem;
-  margin-bottom: 2rem;
-
-  .title {
-    color: $primary-color;
-    font-size: 2rem;
-    font-weight: 500;
-  }
-
-  .subtitle {
-    color: $subtitle-text;
-    font-size: 1.05rem;
-    margin-top: 0.5rem;
-  }
+a:hover {
+  color: #154360;
+  text-decoration: underline;
 }
 
-// Callout boxes
-.callout {
-  border-left: 4px solid $primary-color;
-  background-color: $secondary-bg;
-  border-radius: 4px;
+// Buttons
+.btn-primary {
+  background-color: #1a5276;
+  border-color: #1a5276;
+  color: #ffffff;
+  font-family: $font-family-sans-serif;
+  font-size: 0.875rem;
+}
 
-  &.callout-note {
-    border-left-color: $primary-color;
-  }
+.btn-primary:hover {
+  background-color: #154360;
+  border-color: #154360;
+  color: #ffffff;
+}
+
+.btn-outline-primary {
+  color: #1a5276;
+  border-color: #1a5276;
+  font-family: $font-family-sans-serif;
+  font-size: 0.875rem;
+}
+
+.btn-outline-primary:hover {
+  background-color: #eaf3fb;
+  color: #154360;
+  border-color: #154360;
 }
 
 // Tables
 table {
+  font-family: $font-family-sans-serif;
+  font-size: 0.875rem;
   width: 100%;
-  border-collapse: collapse;
-  font-size: 0.9rem;
-  margin: 1.5rem 0;
+}
 
-  th {
-    background-color: $primary-color;
-    color: #ffffff;
-    padding: 0.6rem 0.75rem;
-    text-align: left;
-    font-weight: 500;
-  }
+thead th {
+  background-color: #1a5276;
+  color: #ffffff;
+  font-weight: 500;
+  border-color: #1a5276;
+}
 
-  td {
-    padding: 0.5rem 0.75rem;
-    border-bottom: 0.5px solid $footer-border;
-    color: $body-text;
-  }
+tbody tr:nth-child(even) td {
+  background-color: #eaf3fb;
+}
 
-  tr:nth-child(even) td {
-    background-color: $hero-bg;
-  }
+// Callout boxes
+.callout {
+  border-left-color: #1a5276;
+}
 
-  tr:hover td {
-    background-color: $secondary-bg-hover;
-  }
+.callout-note {
+  background-color: #eaf3fb;
+  border-left-color: #1a5276;
+}
+
+.callout-note .callout-title {
+  color: #1a5276;
+  font-family: $font-family-sans-serif;
 }
 
 // Footer
 .nav-footer {
-  background-color: $footer-bg !important;
-  border-top: 1px solid $footer-border;
-  padding: 1.25rem 2rem;
+  background-color: #f4f6f8;
+  border-top: 1px solid #dee2e6;
+  font-family: $font-family-sans-serif;
   font-size: 0.8rem;
-  color: $footer-text;
-  line-height: 1.65;
-
-  a {
-    color: $primary-color;
-    &:hover { color: $primary-dark; }
-  }
-
-  p { color: $footer-text; }
+  color: #555555;
+  padding: 1.25rem 1.5rem;
 }
 
-// Content area max width
-.content,
+.nav-footer a {
+  color: #1a5276;
+}
+
+.nav-footer a:hover {
+  color: #154360;
+}
+
+.nav-footer p {
+  font-family: $font-family-sans-serif;
+  font-size: 0.8rem;
+  color: #555555;
+  line-height: 1.65;
+}
+
+// Content width
 #quarto-content {
-  max-width: 900px;
-  margin: 0 auto;
-  padding: 1.5rem 2rem;
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
 }

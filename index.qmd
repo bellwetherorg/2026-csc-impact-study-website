@@ -1,18 +1,17 @@
 ---
-title: "Home Page"
-format: html
-editor: visual
+title: "Subsidized High-Impact Literacy Tutoring, Backed by Research"
+subtitle: "CitySchools Collaborative is partnering with schools to bring Science-of-Reading–aligned literacy tutoring to students in grades 4–8 and support for school administrators and SEAs. They're looking for schools ready to make a difference for their readers."
+format:
+  html:
+    page-layout: full
 ---
 
-# Subsidized High-Impact Literacy Tutoring, Backed by Research
+<div style="margin: 1rem 0 2rem 0; display: flex; gap: 10px; flex-wrap: wrap;">
+  <a href="signup.qmd" class="btn btn-primary">Sign Up to Participate</a>
+  <a href="studyoverview.qmd" class="btn btn-outline-primary">Learn More About the Study</a>
+</div>
 
-CitySchools Collaborative is partnering with schools to bring Science-of-Reading–aligned literacy tutoring to students in grades 4–8 and support for school administrators and SEAs. They're looking for schools ready to make a difference for their readers.
-
-::: cta-buttons
-[Sign Up to Participate](sign-up.qmd){.btn .btn-primary} [Learn More About the Study](study-overview.qmd){.btn .btn-secondary}
-:::
-
-------------------------------------------------------------------------
+---
 
 ## The Opportunity
 
@@ -22,23 +21,23 @@ That's where CitySchools Collaborative (CSC) comes in. CSC is leading a federall
 
 This is an opportunity to improve your students' literacy outcomes, build administrative capacity, and contribute to research that will inform how schools across the country support literacy tutoring.
 
-------------------------------------------------------------------------
+---
 
 ## Who This Is For
 
 This opportunity is designed for school leaders in Maryland, D.C., and Virginia looking to strengthen literacy outcomes for students in grades 4–8.
 
-------------------------------------------------------------------------
+---
 
 ## What Schools Receive
 
--   **Subsidized literacy tutoring** delivered during the school day for at least one year. The cost to each school depends on the customized model designed with CSC's expert support.
--   **Custom design support** from CSC staff to integrate tutoring into your schedule and ensure it runs smoothly.
--   **Ongoing coaching and Communities of Practice** to work through challenges as they emerge.
--   **Data tools and quality monitoring** to help you track student progress and ensure tutoring is consistent and effective.
--   **Sustainability planning support** to integrate tutoring into schools' long-term models and financial plans.
+- **Subsidized literacy tutoring** delivered during the school day for at least one year. The cost to each school depends on the customized model designed with CSC's expert support.
+- **Custom design support** from CSC staff to integrate tutoring into your schedule and ensure it runs smoothly.
+- **Ongoing coaching and Communities of Practice** to work through challenges as they emerge.
+- **Data tools and quality monitoring** to help you track student progress and ensure tutoring is consistent and effective.
+- **Sustainability planning support** to integrate tutoring into schools' long-term models and financial plans.
 
-------------------------------------------------------------------------
+---
 
 ## CSC's Impact
 
@@ -46,14 +45,23 @@ A previous study of CSC's tutoring program found that students who received high
 
 [→ Read the QED Report](https://www.empowerk12.org/research-source/2025-csc-hit-impact-evaluation)
 
-Since its inception, CSC has achieved deep impact across D.C.:
-
-::: impact-stats
-|     **92**     |   **26,000+**    |   **300,000+**    |
-|:--------------:|:----------------:|:-----------------:|
-| Schools Served | Students Tutored | Hours of Tutoring |
-:::
+<div style="display: flex; gap: 12px; margin: 1.5rem 0; flex-wrap: wrap;">
+  <div style="flex: 1; min-width: 140px; background: #eaf3fb; border-radius: 6px; padding: 1.1rem 1rem; text-align: center;">
+    <div style="font-size: 1.6rem; font-weight: 500; color: #1a5276; font-family: sans-serif;">92</div>
+    <div style="font-size: 0.8rem; color: #555; font-family: sans-serif; margin-top: 4px;">Schools Served</div>
+  </div>
+  <div style="flex: 1; min-width: 140px; background: #eaf3fb; border-radius: 6px; padding: 1.1rem 1rem; text-align: center;">
+    <div style="font-size: 1.6rem; font-weight: 500; color: #1a5276; font-family: sans-serif;">26,000+</div>
+    <div style="font-size: 0.8rem; color: #555; font-family: sans-serif; margin-top: 4px;">Students Tutored</div>
+  </div>
+  <div style="flex: 1; min-width: 140px; background: #eaf3fb; border-radius: 6px; padding: 1.1rem 1rem; text-align: center;">
+    <div style="font-size: 1.6rem; font-weight: 500; color: #1a5276; font-family: sans-serif;">300,000+</div>
+    <div style="font-size: 0.8rem; color: #555; font-family: sans-serif; margin-top: 4px;">Hours of Tutoring</div>
+  </div>
+</div>
 
 Add your school's students to these totals today!
 
-[Sign Up →](sign-up.qmd){.btn .btn-primary}
+<div style="margin: 1rem 0;">
+  <a href="signup.qmd" class="btn btn-primary">Sign Up →</a>
+</div>
