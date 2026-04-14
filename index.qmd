@@ -4,6 +4,8 @@ subtitle: "CitySchools Collaborative is partnering with schools to bring Science
 format:
   html:
     page-layout: full
+    html-math-method: plain
+from: markdown+raw_html
 ---
 
 <div style="margin: 1rem 0 2rem 0; display: flex; gap: 10px; flex-wrap: wrap;">

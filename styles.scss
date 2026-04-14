@@ -1,23 +1,20 @@
 /*-- scss:defaults --*/
 
-// Bootstrap variable overrides — these must go in scss:defaults
-// to take effect before Bootstrap compiles
-
-$navbar-bg:                 #1a5276;
+$navbar-bg:                 #293A4C;
 $navbar-fg:                 #ffffff;
 $navbar-hl:                 #ffffff;
 
-$link-color:                #1a5276;
-$link-hover-color:          #154360;
+$link-color:                #293A4C;
+$link-hover-color:          #1a2a38;
 
 $body-color:                #222222;
-$body-bg:                   #ffffff;
+$body-bg:                   #F9F7F2;
 
-$font-family-base:          Georgia, "Times New Roman", serif;
-$font-family-sans-serif:    "Helvetica Neue", Arial, sans-serif;
-$headings-font-family:      Georgia, "Times New Roman", serif;
-$headings-color:            #1a5276;
-$headings-font-weight:      500;
+$font-family-base:          "Plus Jakarta Sans", "Nunito", "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+$font-family-sans-serif:    "Plus Jakarta Sans", "Nunito", "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+$headings-font-family:      "Plus Jakarta Sans", "Nunito", "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+$headings-color:            #293A4C;
+$headings-font-weight:      600;
 
 $font-size-base:            1rem;
 $line-height-base:          1.75;
@@ -31,26 +28,34 @@ $btn-border-radius-lg:      6px;
 $btn-border-radius-sm:      6px;
 
 $table-border-color:        #dee2e6;
-$table-striped-bg:          #eaf3fb;
+$table-striped-bg:          #eef1f5;
 
 /*-- scss:rules --*/
 
+// Load Plus Jakarta Sans from Google Fonts
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600&display=swap');
+
+// Apply font everywhere
+body, p, li, td, th, label, input, button, .nav-link, .dropdown-item {
+  font-family: "Plus Jakarta Sans", "Nunito", Calibri, sans-serif !important;
+}
+
 // Navbar
 .navbar {
-  background-color: #1a5276 !important;
+  background-color: #293A4C !important;
   padding: 0.5rem 1.25rem;
 }
 
 .navbar-brand {
   color: #ffffff !important;
-  font-family: $font-family-sans-serif;
+  font-family: "Plus Jakarta Sans", sans-serif !important;
   font-size: 0.875rem;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .navbar .nav-link {
   color: rgba(255, 255, 255, 0.88) !important;
-  font-family: $font-family-sans-serif;
+  font-family: "Plus Jakarta Sans", sans-serif !important;
   font-size: 0.8125rem;
   padding: 0.35rem 0.65rem !important;
   border-radius: 3px;
@@ -63,46 +68,58 @@ $table-striped-bg:          #eaf3fb;
 }
 
 .navbar .dropdown-menu {
+  background-color: #F9F7F2;
   border: 0.5px solid #dee2e6;
   border-radius: 4px;
 }
 
 .navbar .dropdown-item {
-  font-family: $font-family-sans-serif;
+  font-family: "Plus Jakarta Sans", sans-serif !important;
   font-size: 0.8125rem;
-  color: #1a5276;
+  color: #293A4C;
 }
 
 .navbar .dropdown-item:hover {
-  background-color: #eaf3fb;
-  color: #154360;
+  background-color: #eef1f5;
+  color: #1a2a38;
+}
+
+// Page background
+body {
+  background-color: #F9F7F2 !important;
+}
+
+#quarto-content,
+.quarto-container,
+main {
+  background-color: #F9F7F2 !important;
 }
 
 // Page title and subtitle
 .quarto-title .title {
-  color: #1a5276;
-  font-family: Georgia, serif;
+  color: #293A4C;
+  font-family: "Plus Jakarta Sans", sans-serif !important;
   font-size: 1.75rem;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .quarto-title .description,
 .quarto-title .subtitle {
   color: #555555;
   font-size: 1rem;
-  font-family: Georgia, serif;
+  font-family: "Plus Jakarta Sans", sans-serif !important;
   line-height: 1.7;
 }
 
 // Headings
 h1, h2, h3, h4, h5, h6 {
-  color: #1a5276;
-  font-family: Georgia, serif;
+  color: #293A4C;
+  font-family: "Plus Jakarta Sans", sans-serif !important;
 }
 
 h2 {
   font-size: 1.2rem;
-  font-weight: 500;
+  font-weight: 600;
   padding-bottom: 0.4rem;
   border-bottom: 0.5px solid #dee2e6;
   margin-top: 2rem;
@@ -111,108 +128,120 @@ h2 {
 
 h3 {
   font-size: 1.05rem;
-  font-weight: 500;
+  font-weight: 600;
   margin-top: 1.5rem;
 }
 
 // Body text
 p {
   color: #444444;
-  font-family: Georgia, serif;
+  font-family: "Plus Jakarta Sans", sans-serif !important;
   line-height: 1.75;
 }
 
 // Links
 a {
-  color: #1a5276;
+  color: #293A4C;
 }
 
 a:hover {
-  color: #154360;
+  color: #1a2a38;
   text-decoration: underline;
 }
 
 // Buttons
 .btn-primary {
-  background-color: #1a5276;
-  border-color: #1a5276;
+  background-color: #293A4C;
+  border-color: #293A4C;
   color: #ffffff;
-  font-family: $font-family-sans-serif;
+  font-family: "Plus Jakarta Sans", sans-serif !important;
   font-size: 0.875rem;
 }
 
 .btn-primary:hover {
-  background-color: #154360;
-  border-color: #154360;
+  background-color: #1a2a38;
+  border-color: #1a2a38;
   color: #ffffff;
 }
 
 .btn-outline-primary {
-  color: #1a5276;
-  border-color: #1a5276;
-  font-family: $font-family-sans-serif;
+  color: #293A4C;
+  border-color: #293A4C;
+  font-family: "Plus Jakarta Sans", sans-serif !important;
   font-size: 0.875rem;
 }
 
 .btn-outline-primary:hover {
-  background-color: #eaf3fb;
-  color: #154360;
-  border-color: #154360;
+  background-color: #eef1f5;
+  color: #1a2a38;
+  border-color: #1a2a38;
 }
 
 // Tables
 table {
-  font-family: $font-family-sans-serif;
+  font-family: "Plus Jakarta Sans", sans-serif !important;
   font-size: 0.875rem;
   width: 100%;
 }
 
 thead th {
-  background-color: #1a5276;
+  background-color: #293A4C;
   color: #ffffff;
-  font-weight: 500;
-  border-color: #1a5276;
+  font-weight: 600;
+  border-color: #293A4C;
 }
 
 tbody tr:nth-child(even) td {
-  background-color: #eaf3fb;
+  background-color: #eef1f5;
 }
 
-// Callout boxes
+// Callout boxes — remove icon, restyle
 .callout {
-  border-left-color: #1a5276;
+  border-left-color: #293A4C;
+  background-color: #eef1f5;
 }
 
 .callout-note {
-  background-color: #eaf3fb;
-  border-left-color: #1a5276;
+  background-color: #eef1f5;
+  border-left-color: #293A4C;
 }
 
 .callout-note .callout-title {
-  color: #1a5276;
-  font-family: $font-family-sans-serif;
+  color: #293A4C;
+  font-family: "Plus Jakarta Sans", sans-serif !important;
+}
+
+// Remove the i-in-circle icon from all callouts
+.callout-icon::before,
+.callout-note .callout-icon,
+.callout .callout-icon {
+  display: none !important;
+}
+
+.callout-title-container {
+  padding-left: 0 !important;
 }
 
 // Footer
 .nav-footer {
-  background-color: #f4f6f8;
-  border-top: 1px solid #dee2e6;
-  font-family: $font-family-sans-serif;
+  background-color: #e8e5de;
+  border-top: 1px solid #d0cdc6;
+  font-family: "Plus Jakarta Sans", sans-serif !important;
   font-size: 0.8rem;
   color: #555555;
   padding: 1.25rem 1.5rem;
 }
 
 .nav-footer a {
-  color: #1a5276;
+  color: #293A4C;
 }
 
 .nav-footer a:hover {
-  color: #154360;
+  color: #1a2a38;
 }
 
 .nav-footer p {
-  font-family: $font-family-sans-serif;
+  font-family: "Plus Jakarta Sans", sans-serif !important;
   font-size: 0.8rem;
   color: #555555;
   line-height: 1.65;
