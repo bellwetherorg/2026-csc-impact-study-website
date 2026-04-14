@@ -7,27 +7,26 @@ subtitle: "For Schools and Districts"
 
 CSC will provide subsidies that cover all or most of the cost of tutoring. The cost per student to schools depends on several factors, such as whether schools select a virtual or in-person model, whether they use small groups or 1-on-1 tutoring, and whether they choose to use existing school staff as tutors or bring in a provider. See the examples below to see how the typical costs might break down depending on these choices:
 
-<div style="display: flex; gap: 16px; flex-wrap: wrap; margin: 1rem 0 1.5rem 0;">
+::: {.callout-note appearance="simple"}
+### Virtual Tutoring Provider
+School A engages with TFA Ignite. Students meet with college tutors virtually. A school staff member serves as a site leader to supervise students during sessions and liaise with TFA Ignite to manage the program. School A ensures students have working technology and designates a tutoring space. CSC funding subsidizes the cost of virtual tutors and provides a stipend for the TFA Ignite site leader, a School A teacher.
 
-  <div style="flex: 1; min-width: 200px; background: #eef1f5; border-left: 4px solid #293A4C; border-radius: 6px; padding: 1rem 1.1rem;">
-    <div style="font-size: 0.95rem; font-weight: 600; color: #293A4C; font-family: 'Plus Jakarta Sans', sans-serif; margin-bottom: 8px;">Virtual Tutoring Provider</div>
-    <div style="font-size: 0.85rem; color: #444; font-family: 'Plus Jakarta Sans', sans-serif; line-height: 1.65;">School A engages with TFA Ignite. Students meet with college tutors virtually. A school staff member serves as a site leader to supervise students during sessions. CSC funding subsidizes the cost of virtual tutors and provides a stipend for the site leader.</div>
-    <div style="margin-top: 10px; font-size: 0.85rem; font-weight: 600; color: #293A4C; font-family: 'Plus Jakarta Sans', sans-serif;">~$500/student</div>
-  </div>
+**Required School Costs: ~$500/student for tutoring**
+:::
 
-  <div style="flex: 1; min-width: 200px; background: #eef1f5; border-left: 4px solid #293A4C; border-radius: 6px; padding: 1rem 1.1rem;">
-    <div style="font-size: 0.95rem; font-weight: 600; color: #293A4C; font-family: 'Plus Jakarta Sans', sans-serif; margin-bottom: 8px;">In-Person Tutoring Provider</div>
-    <div style="font-size: 0.85rem; color: #444; font-family: 'Plus Jakarta Sans', sans-serif; line-height: 1.65;">School B engages with Reading Assist. Reading Assist provides tutors and a program manager. CSC funding subsidizes the program cost including tutors, materials, and site management.</div>
-    <div style="margin-top: 10px; font-size: 0.85rem; font-weight: 600; color: #293A4C; font-family: 'Plus Jakarta Sans', sans-serif;">~$750/student</div>
-  </div>
+::: {.callout-note appearance="simple"}
+### In-Person Tutoring Provider
+School B engages with Reading Assist. Reading Assist provides tutors and employs a program manager that supports tutors across a few schools and coordinates with school leadership. CSC funding to Reading Assist subsidizes the program cost including tutors, materials, and site management.
 
-  <div style="flex: 1; min-width: 200px; background: #eef1f5; border-left: 4px solid #293A4C; border-radius: 6px; padding: 1rem 1.1rem;">
-    <div style="font-size: 0.95rem; font-weight: 600; color: #293A4C; font-family: 'Plus Jakarta Sans', sans-serif; margin-bottom: 8px;">Staff-Led Model</div>
-    <div style="font-size: 0.85rem; color: #444; font-family: 'Plus Jakarta Sans', sans-serif; line-height: 1.65;">School C uses their own staff to lead tutoring groups. An instructional coach manages student assignments, tracks data, and manages reporting. CSC provides a stipend for the coach.</div>
-    <div style="margin-top: 10px; font-size: 0.85rem; font-weight: 600; color: #293A4C; font-family: 'Plus Jakarta Sans', sans-serif;">~$200–600/student</div>
-  </div>
+**Required School Costs: ~$750/student for tutoring (receives full-time staff as tutors)**
+:::
 
-</div>
+::: {.callout-note appearance="simple"}
+### Staff-Led Model
+School C uses their own staff to lead tutoring groups throughout the day as part of their regular responsibilities. School C has assigned an instructional coach to manage student assignments, track session-level student data, provide coaching, and manage reporting. CSC provides a stipend for the instructional coach managing the program; staff-tutors' full salaries are included in the School C budget.
+
+**Required School Costs: ~$200–600/student for tutoring**
+:::
 
 ---
 

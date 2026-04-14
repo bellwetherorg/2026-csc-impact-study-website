@@ -55,4 +55,3 @@ format:
       - cosmo
       - styles.scss
     toc: false
-    from: markdown+raw_html
