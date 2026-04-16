@@ -5,9 +5,9 @@ project:
 website:
   title: "CitySchools Collaborative — IST Support Study"
   navbar:
+    title: "CitySchools Collaborative — IST Support Study"
+    title-href: "index.html"
     left:
-      - text: "Home"
-        href: index.qmd
       - text: "About the Study"
         menu:
           - text: "Study Overview"
@@ -55,3 +55,4 @@ format:
       - cosmo
       - styles.scss
     toc: false
+    page-layout: full
