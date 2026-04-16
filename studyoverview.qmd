@@ -1,11 +1,7 @@
 ---
 title: "The Intermediary Support for Tutoring (IST) Study"
 subtitle: "A federally-funded research study examining how tutoring implementation support shapes the effectiveness of high-impact literacy tutoring"
-format: html
-editor: visual
 ---
-
-------------------------------------------------------------------------
 
 ## Purpose
 
@@ -15,29 +11,31 @@ But tutoring alone is not enough. The way tutoring is organized, scheduled, alig
 
 The IST study is designed to test whether CSC's IST support model helps make tutoring more effective for students. By studying this rigorously, CSC and its research partner, Bellwether, aim to generate evidence to guide schools, districts, and policymakers across the country in planning and investing in tutoring programs.
 
-------------------------------------------------------------------------
+---
 
 ## How the Study Works
 
 The IST study uses a randomized design, which is the most reliable way to determine whether a program works. Schools that agree to participate will be randomly assigned to one of two groups:
 
--   **Group 1 (treatment):** Schools receive subsidized literacy tutoring and CSC's full implementation support, including structured planning, coaching, and data tools, right away, beginning in the upcoming 2026–27 school year.
--   **Group 2 (delayed treatment):** Schools receive access to subsidized literacy tutoring from the start, but receive CSC's full implementation support in a later year (2027–28). These schools still benefit from participation and will receive a full two years of subsidized tutoring.
+- **Group 1 (treatment):** Schools receive subsidized literacy tutoring and CSC's full implementation support, including structured planning, coaching, and data tools, right away, beginning in the upcoming 2026–27 school year.
+- **Group 2 (delayed treatment):** Schools receive access to subsidized literacy tutoring from the start, but receive CSC's full implementation support in a later year (2027–28). These schools still benefit from participation and will receive a full two years of subsidized tutoring.
 
 This design allows researchers to compare outcomes between schools with and without full implementation support while ensuring that all schools receive the same benefits.
 
-------------------------------------------------------------------------
+---
 
 ## Who Is Funding This Study?
 
-The IST study is funded by the U.S. Department of Education through a competitive Education Innovation and Research (EIR) federal grant. The project runs from October 1, 2025 through September 30, 2030, with a total federal investment of \$10 million. EIR grants provide funding to help create or expand promising practices that have the potential to address persistent challenges in education. [Read more about EIR grants here.](https://oese.ed.gov/offices/office-of-discretionary-grants-support-services/innovation-early-learning/education-innovation-and-research-eir/)
+The IST study is funded by the U.S. Department of Education through a competitive Education Innovation and Research (EIR) federal grant. The project runs from October 1, 2025 through September 30, 2030, with a total federal investment of $10 million. EIR grants provide funding to help create or expand promising practices that have the potential to address persistent challenges in education. [Read more about EIR grants here.](https://oese.ed.gov/offices/office-of-discretionary-grants-support-services/innovation-early-learning/education-innovation-and-research-eir/)
 
-------------------------------------------------------------------------
+---
 
 ## Who Is Leading the Study?
 
+![](images/csc-logo.png){fig-align="center" style="max-width: 220px; margin: 1rem auto 0.5rem auto; display: block;"}
+
 **CitySchools Collaborative (CSC)** leads program implementation, including recruiting schools, delivering tutoring, and providing the implementation support that is being studied.
 
-**Bellwether** leads the independent evaluation. The research team is led by Dr. Daniela Torre Gibney, who has over a decade of experience leading education studies. Bellwether operates independently of CSC to help ensure the evaluation is objective and the study follows all proper research protocols.
+![](images/bw-logo.jpg){fig-align="center" style="max-width: 220px; margin: 1.5rem auto 0.5rem auto; display: block;"}
 
-------------------------------------------------------------------------
+**Bellwether** leads the independent evaluation. The research team is led by Dr. Daniela Torre Gibney, who has over a decade of experience leading education studies. Bellwether operates independently of CSC to help ensure the evaluation is objective and the study follows all proper research protocols.
