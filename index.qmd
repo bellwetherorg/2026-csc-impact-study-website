@@ -1,9 +1,6 @@
 ---
 title: "Subsidized High-Impact Literacy Tutoring, Backed by Research"
 subtitle: "CitySchools Collaborative is partnering with schools to bring Science-of-Reading–aligned literacy tutoring to students in grades 4–8 and support for school administrators and SEAs. They're looking for schools ready to make a difference for their readers."
-format:
-  html:
-    page-layout: full
 ---
 
 <div style="margin: 1rem 0 2rem 0; display: flex; gap: 10px; flex-wrap: wrap;">

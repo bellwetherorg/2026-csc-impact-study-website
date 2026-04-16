@@ -55,4 +55,3 @@ format:
       - cosmo
       - styles.scss
     toc: false
-    page-layout: full
