@@ -40,5 +40,5 @@ No study activities will take place during schools' state testing period.
 
 ## Ready to Get Started?
 
-[Sign Up to Participate →](sign-up.qmd){.btn .btn-primary}
-[Contact Us with Questions →](contact.qmd){.btn .btn-secondary}
+[Sign Up to Participate →](signup.qmd){.btn .btn-primary}
+[Contact Us with Questions →](contactus.qmd){.btn .btn-secondary}
