@@ -1,7 +1,6 @@
 ---
 title: "How to Get Involved"
 subtitle: "CSC makes participating in the IST study simple and easy. Here's what the process looks like for schools, from interest to implementation."
-from: markdown+raw_html
 ---
 
 ## What Schools Are Asked to Do
@@ -32,9 +31,7 @@ CSC staff and the Bellwether research team work with your team throughout this p
 | **IST activities** | Schools participate in kickoff meetings with CSC | Schools participate in Design Sprints to customize their tutoring design | Schools participate in Design Sprints to customize their tutoring design | Schools virtually check in with CSC on implementation; CoP meeting | Schools virtually check in with CSC on implementation; CoP meeting | Schools virtually check in with CSC on implementation |
 | **Study activities** | Schools are randomized to groups | Bellwether collects administrative data | Bellwether collects administrative data | Bellwether collects administrative data | Bellwether conducts interviews | Bellwether collects and analyzes data; reports findings |
 
-::: {.callout-note}
-No study activities will take place during schools' state testing period.
-:::
+*Note: No study activities will take place during schools' state testing period.*
 
 ---
 
