@@ -1,46 +1,47 @@
 /*-- scss:defaults --*/
 
-$navbar-bg:                 #293A4C;
-$navbar-fg:                 #ffffff;
-$navbar-hl:                 #ffffff;
+$navbar-bg:              #293A4C;
+$navbar-fg:              #ffffff;
+$navbar-hl:              #ffffff;
 
-$link-color:                #293A4C;
-$link-hover-color:          #1a2a38;
+$link-color:             #293A4C;
+$link-hover-color:       #1a2a38;
 
-$body-color:                #222222;
-$body-bg:                   #F9F7F2;
+$body-color:             #222222;
+$body-bg:                #F9F7F2;
 
-$font-family-base:          "Plus Jakarta Sans", "Nunito", "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
-$font-family-sans-serif:    "Plus Jakarta Sans", "Nunito", "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
-$headings-font-family:      "Plus Jakarta Sans", "Nunito", "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
-$headings-color:            #293A4C;
-$headings-font-weight:      600;
+$font-family-base:       "Plus Jakarta Sans", "Nunito", Calibri, sans-serif;
+$font-family-sans-serif: "Plus Jakarta Sans", "Nunito", Calibri, sans-serif;
+$headings-font-family:   "Plus Jakarta Sans", "Nunito", Calibri, sans-serif;
+$headings-color:         #293A4C;
+$headings-font-weight:   600;
 
-$font-size-base:            1rem;
-$line-height-base:          1.75;
+$font-size-base:         1rem;
+$line-height-base:       1.75;
 
-$border-radius:             6px;
-$border-radius-lg:          8px;
-$border-radius-sm:          4px;
+$border-radius:          6px;
+$border-radius-lg:       8px;
+$border-radius-sm:       4px;
 
-$btn-border-radius:         6px;
-$btn-border-radius-lg:      6px;
-$btn-border-radius-sm:      6px;
+$btn-border-radius:      6px;
+$btn-border-radius-lg:   6px;
+$btn-border-radius-sm:   6px;
 
-$table-border-color:        #dee2e6;
-$table-striped-bg:          #eef1f5;
+$table-border-color:     #dee2e6;
+$table-striped-bg:       #eef1f5;
 
 /*-- scss:rules --*/
 
-// Load Plus Jakarta Sans from Google Fonts
 @import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600&display=swap');
 
-// Apply font everywhere
 body, p, li, td, th, label, input, button, .nav-link, .dropdown-item {
   font-family: "Plus Jakarta Sans", "Nunito", Calibri, sans-serif !important;
 }
 
-// Navbar
+body {
+  background-color: #F9F7F2 !important;
+}
+
 .navbar {
   background-color: #293A4C !important;
   padding: 0.5rem 1.25rem;
@@ -48,14 +49,12 @@ body, p, li, td, th, label, input, button, .nav-link, .dropdown-item {
 
 .navbar-brand {
   color: #ffffff !important;
-  font-family: "Plus Jakarta Sans", sans-serif !important;
   font-size: 0.875rem;
   font-weight: 600;
 }
 
 .navbar .nav-link {
   color: rgba(255, 255, 255, 0.88) !important;
-  font-family: "Plus Jakarta Sans", sans-serif !important;
   font-size: 0.8125rem;
   padding: 0.35rem 0.65rem !important;
   border-radius: 3px;
@@ -74,7 +73,6 @@ body, p, li, td, th, label, input, button, .nav-link, .dropdown-item {
 }
 
 .navbar .dropdown-item {
-  font-family: "Plus Jakarta Sans", sans-serif !important;
   font-size: 0.8125rem;
   color: #293A4C;
 }
@@ -84,21 +82,19 @@ body, p, li, td, th, label, input, button, .nav-link, .dropdown-item {
   color: #1a2a38;
 }
 
-// Page background
-body {
-  background-color: #F9F7F2 !important;
+#quarto-header::after {
+  content: "";
+  display: block;
+  width: 100%;
+  background-image: url("images/banner.png");
+  background-size: contain;
+  background-position: top center;
+  background-repeat: no-repeat;
+  padding-bottom: 25%;
 }
 
-#quarto-content,
-.quarto-container,
-main {
-  background-color: #F9F7F2 !important;
-}
-
-// Page title and subtitle
 .quarto-title .title {
   color: #293A4C;
-  font-family: "Plus Jakarta Sans", sans-serif !important;
   font-size: 1.75rem;
   font-weight: 600;
 }
@@ -107,14 +103,11 @@ main {
 .quarto-title .subtitle {
   color: #555555;
   font-size: 1rem;
-  font-family: "Plus Jakarta Sans", sans-serif !important;
   line-height: 1.7;
 }
 
-// Headings
 h1, h2, h3, h4, h5, h6 {
   color: #293A4C;
-  font-family: "Plus Jakarta Sans", sans-serif !important;
 }
 
 h2 {
@@ -132,14 +125,11 @@ h3 {
   margin-top: 1.5rem;
 }
 
-// Body text
 p {
   color: #444444;
-  font-family: "Plus Jakarta Sans", sans-serif !important;
   line-height: 1.75;
 }
 
-// Links
 a {
   color: #293A4C;
 }
@@ -149,12 +139,10 @@ a:hover {
   text-decoration: underline;
 }
 
-// Buttons
 .btn-primary {
   background-color: #293A4C;
   border-color: #293A4C;
   color: #ffffff;
-  font-family: "Plus Jakarta Sans", sans-serif !important;
   font-size: 0.875rem;
 }
 
@@ -167,7 +155,6 @@ a:hover {
 .btn-outline-primary {
   color: #293A4C;
   border-color: #293A4C;
-  font-family: "Plus Jakarta Sans", sans-serif !important;
   font-size: 0.875rem;
 }
 
@@ -177,9 +164,7 @@ a:hover {
   border-color: #1a2a38;
 }
 
-// Tables
 table {
-  font-family: "Plus Jakarta Sans", sans-serif !important;
   font-size: 0.875rem;
   width: 100%;
 }
@@ -195,7 +180,6 @@ tbody tr:nth-child(even) td {
   background-color: #eef1f5;
 }
 
-// Callout boxes — remove icon, restyle
 .callout {
   border-left-color: #293A4C;
   background-color: #eef1f5;
@@ -208,10 +192,8 @@ tbody tr:nth-child(even) td {
 
 .callout-note .callout-title {
   color: #293A4C;
-  font-family: "Plus Jakarta Sans", sans-serif !important;
 }
 
-// Remove the i-in-circle icon from all callouts
 .callout-icon::before,
 .callout-note .callout-icon,
 .callout .callout-icon {
@@ -222,11 +204,9 @@ tbody tr:nth-child(even) td {
   padding-left: 0 !important;
 }
 
-// Footer
 .nav-footer {
   background-color: #e8e5de;
   border-top: 1px solid #d0cdc6;
-  font-family: "Plus Jakarta Sans", sans-serif !important;
   font-size: 0.8rem;
   color: #555555;
   padding: 1.25rem 1.5rem;
@@ -241,51 +221,8 @@ tbody tr:nth-child(even) td {
 }
 
 .nav-footer p {
-  font-family: "Plus Jakarta Sans", sans-serif !important;
   font-size: 0.8rem;
   color: #555555;
   line-height: 1.65;
 }
 
-// Banner image — appears below navbar on all pages
-#quarto-header::after {
-  content: "";
-  display: block;
-  width: 100%;
-  background-image: url("images/banner.png");
-  background-size: contain;
-  background-position: top center;
-  background-repeat: no-repeat;
-  aspect-ratio: auto;
-  min-height: 200px;
-  height: auto;
-  padding-bottom: 25%;
-}
-
-// Content margins — consistent and centered across all pages
-.page-columns {
-  grid-template-columns: 1fr minmax(0, 1100px) 1fr !important;
-}
-
-#quarto-content {
-  width: 100%;
-  max-width: 1100px;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-}
-
-.quarto-container {
-  max-width: 1100px !important;
-  margin-left: auto !important;
-  margin-right: auto !important;
-  padding-left: 1.5rem !important;
-  padding-right: 1.5rem !important;
-}
-
-main.content {
-  max-width: 100% !important;
-  padding-left: 0 !important;
-  padding-right: 0 !important;
-}
