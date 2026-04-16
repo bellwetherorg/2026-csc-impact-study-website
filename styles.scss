@@ -49,6 +49,7 @@ body {
 
 .navbar-brand {
   color: #ffffff !important;
+  font-family: "Plus Jakarta Sans", sans-serif !important;
   font-size: 0.875rem;
   font-weight: 600;
 }
@@ -169,6 +170,17 @@ table {
   width: 100%;
 }
 
+table td, table th {
+  vertical-align: middle;
+}
+
+.logo-table table,
+.logo-table table td,
+.logo-table table th {
+  border: none !important;
+  background: none !important;
+}
+
 thead th {
   background-color: #293A4C;
   color: #ffffff;
@@ -225,4 +237,3 @@ tbody tr:nth-child(even) td {
   color: #555555;
   line-height: 1.65;
 }
-

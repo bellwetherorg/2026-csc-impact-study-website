@@ -44,13 +44,12 @@ A previous study of CSC's tutoring program found that students who received high
 
 CSC has worked with over 100 schools since 2020. Below are a few LEAs CSC has worked with in the District of Columbia:
 
+::: {.logo-table}
 | | | |
 |:---:|:---:|:---:|
-| ![](images/achievement-logo.png){style="max-height:80px;"} | ![](images/dcprep-logo.jpg){style="max-height:80px;"} | ![](images/kipp-logo.png){style="max-height:80px;"} |
-
-| | | |
-|:---:|:---:|:---:|
-| | ![](images/mundoverde-logo.png){style="max-height:80px;"} | ![](images/wyuying-logo.png){style="max-height:80px;"} |
+| ![](images/achievement-logo.png){style="max-height:80px; vertical-align:middle;"} | ![](images/dcprep-logo.jpg){style="max-height:80px; vertical-align:middle;"} | ![](images/kipp-logo.png){style="max-height:80px; vertical-align:middle;"} |
+| ![](images/mundoverde-logo.png){style="max-height:80px; vertical-align:middle;"} | ![](images/wyuying-logo.png){style="max-height:80px; vertical-align:middle;"} | ![](images/sojourner-logo.png){style="max-height:80px; vertical-align:middle;"} |
+:::
 
 Read more about how CSC has impacted schools in their [annual impact reports](https://cityschoolscollab.org/).
 
