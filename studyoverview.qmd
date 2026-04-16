@@ -32,10 +32,10 @@ The IST study is funded by the U.S. Department of Education through a competitiv
 
 ## Who Is Leading the Study?
 
-![](images/csc-logo.png){fig-align="center" style="max-width: 220px; margin: 1rem auto 0.5rem auto; display: block;"}
+![](images/csc-logo.png){fig-align="center" style="max-height: 60px; margin: 1rem auto 0.5rem auto; display: block;"}
 
 **CitySchools Collaborative (CSC)** leads program implementation, including recruiting schools, delivering tutoring, and providing the implementation support that is being studied.
 
-![](images/bw-logo.jpg){fig-align="center" style="max-width: 220px; margin: 1.5rem auto 0.5rem auto; display: block;"}
+![](images/bw-logo.jpg){fig-align="center" style="max-height: 60px; margin: 1.5rem auto 0.5rem auto; display: block;"}
 
 **Bellwether** leads the independent evaluation. The research team is led by Dr. Daniela Torre Gibney, who has over a decade of experience leading education studies. Bellwether operates independently of CSC to help ensure the evaluation is objective and the study follows all proper research protocols.
