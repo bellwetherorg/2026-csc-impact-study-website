@@ -22,6 +22,14 @@ This comprehensive approach is what the IST study is designed to evaluate, and w
 
 Read more about us at [cityschoolscollab.org](https://cityschoolscollab.org/).
 
+> "The single program that has made the biggest difference in Truth's improved academic outcomes has been High-Impact Tutoring…It has made a critical difference for our students who have been struggling with math through these post-pandemic years."
+>
+> — Justin Lessek, Executive Director, Sojourner Truth PCS
+
+> "I feel very confident about learning new things with my tutor when I don't understand my work."
+>
+> — Tutored Student, Middle School
+
 ---
 
 ## Proven Results
@@ -34,7 +42,34 @@ A previous study of CSC's tutoring program found that students who received high
 
 ## Who CSC Has Served
 
-CSC has worked with over 100 schools since 2020, including:
+CSC has worked with over 100 schools since 2020. Below are a few LEAs CSC has worked with in the District of Columbia:
+
+:::::: {.columns}
+::: {.column width="33%" style="text-align:center; padding: 1rem;"}
+![](images/achievement-logo.png){style="max-height: 80px; max-width: 100%;"}
+:::
+::: {.column width="33%" style="text-align:center; padding: 1rem;"}
+![](images/dcprep-logo.jpg){style="max-height: 80px; max-width: 100%;"}
+:::
+::: {.column width="33%" style="text-align:center; padding: 1rem;"}
+![](images/kipp-logo.png){style="max-height: 80px; max-width: 100%;"}
+:::
+::::::
+
+:::::: {.columns}
+::: {.column width="16%" }
+:::
+::: {.column width="33%" style="text-align:center; padding: 1rem;"}
+![](images/mundoverde-logo.png){style="max-height: 80px; max-width: 100%;"}
+:::
+::: {.column width="33%" style="text-align:center; padding: 1rem;"}
+![](images/wyuying-logo.png){style="max-height: 80px; max-width: 100%;"}
+:::
+::: {.column width="16%"}
+:::
+::::::
+
+Read more about how CSC has impacted schools in their [annual impact reports](https://cityschoolscollab.org/).
 
 :::::: {.columns}
 ::: {.column width="33%"}
