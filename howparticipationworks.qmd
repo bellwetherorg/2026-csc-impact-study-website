@@ -38,4 +38,4 @@ CSC staff and the Bellwether research team work with your team throughout this p
 ## Ready to Get Started?
 
 [Sign Up to Participate →](signup.qmd){.btn .btn-primary}
-[Contact Us with Questions →](contactus.qmd){.btn .btn-secondary}
+[Contact Us with Questions →](contactus.qmd){.btn .btn-primary}
