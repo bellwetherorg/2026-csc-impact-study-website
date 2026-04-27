@@ -20,7 +20,7 @@ CSC's model goes beyond placing tutors in classrooms. We partner with schools to
 
 This comprehensive approach is what the IST study is designed to evaluate, and what CSC believes makes high-impact tutoring truly high-impact.
 
-Read more about us at [cityschoolscollab.org](https://cityschoolscollab.org/).
+Read more about us at [cityschoolscollab.org](https://cityschoolscollab.org/){target="_blank"}.
 
 > "The single program that has made the biggest difference in Truth's improved academic outcomes has been High-Impact Tutoring…It has made a critical difference for our students who have been struggling with math through these post-pandemic years."
 >
@@ -36,7 +36,7 @@ Read more about us at [cityschoolscollab.org](https://cityschoolscollab.org/).
 
 A previous study of CSC's tutoring program found that students who received high-intensity math tutoring from CSC providers in 2023–2025 received the equivalent of an additional 59 instructional days and achieved, on average, 138% of their expected growth on math assessments.
 
-[→ Read the QED Report](https://www.empowerk12.org/research-source/2025-csc-hit-impact-evaluation)
+[→ Read the QED Report](https://www.empowerk12.org/research-source/2025-csc-hit-impact-evaluation){target="_blank"}
 
 ---
 
@@ -51,4 +51,6 @@ CSC has worked with over 100 schools since 2020. Below are a few LEAs CSC has wo
 | ![](images/mundoverde-logo.png){style="max-height:80px; vertical-align:middle;"} | ![](images/wyuying-logo.png){style="max-height:80px; vertical-align:middle;"} | ![](images/sojourner-logo.png){style="max-height:80px; vertical-align:middle;"} |
 :::
 
-Read more about how CSC has impacted schools in their [annual impact reports](https://cityschoolscollab.org/).
+Read more about how CSC has impacted schools in their [annual impact reports](https://cityschoolscollab.org/){target="_blank"}.
+
+Read more about how CSC has impacted these schools in their [annual impact reports](https://cityschoolscollab.org/).

@@ -1,8 +1,6 @@
 ---
 title: "About Bellwether"
 subtitle: "The independent research organization evaluating the IST study"
-format: html
-editor: visual
 ---
 
 ## Who We Are
@@ -11,12 +9,12 @@ Bellwether is a national nonprofit organization that works to transform educatio
 
 For the IST study, Bellwether serves as the independent evaluator, meaning Bellwether's team conducts the research on tutoring outcomes and implementation separately from CSC's program team. This independence is essential to producing credible findings.
 
-Read more about Bellwether at [bellwether.org](https://bellwether.org).
+Read more about Bellwether at [bellwether.org](https://bellwether.org){target="_blank"}.
 
-------------------------------------------------------------------------
+---
 
 ## Bellwether's Related Work
 
 With experience manipulating existing datasets, designing instruments, collecting original data, and executing various qualitative and quantitative analytic methods, the Bellwether evaluation team has served a variety of education agencies and public school clients. It has deep experience designing and conducting impact studies designed to meet WWC standards with and without reservations, including serving as the external evaluator for an Education Innovation and Research grant, three Charter Schools Program Replication and Expansion Grants, two Statewide Family Engagement Center Grants, a Full Service Community Schools Grant, and two Teacher Quality Program Grants that all employ quasi-experimental methods to assess program impact.
 
-## Bellwether also has expertise in tutoring and tutoring design, having created the Tutoring Quality Improvement System in collaboration with Stanford University to help districts and schools assess the quality of their tutoring. [Read more here.](https://nssa.stanford.edu/tqis/quality-standards)
+Bellwether also has expertise in tutoring and tutoring design, having created the Tutoring Quality Improvement System in collaboration with Stanford University to help districts and schools assess the quality of their tutoring. [Read more here.](https://nssa.stanford.edu/tqis/quality-standards){target="_blank"}
