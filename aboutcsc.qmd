@@ -48,8 +48,7 @@ CSC has worked with over 100 schools since 2020. Below are a few LEAs CSC has wo
 | | | |
 |:---:|:---:|:---:|
 | ![](images/achievement-logo.png){style="max-height:80px; vertical-align:middle;"} | ![](images/dcprep-logo.jpg){style="max-height:80px; vertical-align:middle;"} | ![](images/kipp-logo.png){style="max-height:80px; vertical-align:middle;"} |
-![](images/dcps-logo.png){style="max-height:80px; vertical-align:middle;"} |
-| ![](images/mundoverde-logo.png){style="max-height:80px; vertical-align:middle;"} | ![](images/wyuying-logo.png){style="max-height:80px; vertical-align:middle;"} | 
+| ![](images/dcps-logo.png){style="max-height:80px; vertical-align:middle;"} | ![](images/mundoverde-logo.png){style="max-height:80px; vertical-align:middle;"} | ![](images/wyuying-logo.png){style="max-height:80px; vertical-align:middle;"} |
 :::
 
 Read more about how CSC has impacted schools in their [annual impact reports](https://cityschoolscollab.org/our-impact/){target="_blank"}.
