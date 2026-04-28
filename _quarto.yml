@@ -28,7 +28,7 @@ website:
             href: faqschools.qmd
           - text: "For Parents and Families"
             href: faqfamilies.qmd
-      - text: "Sign Up to Participate"
+      - text: "Sign Up to Learn More"
         href: signup.qmd
       - text: "Contact Us"
         href: contactus.qmd

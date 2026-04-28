@@ -15,18 +15,20 @@ The IST study is designed to test whether CSC's IST support model helps make tut
 
 ## How the Study Works
 
-The IST study uses a randomized design, which is the most reliable way to determine whether a program works. Schools that agree to participate will be randomly assigned to one of two groups:
+The IST study uses a randomized design, which is the gold standard for understanding whether a program works. It will include three cohorts of schools, with Cohort 1 starting in school year 2026-27. Schools that agree to participate in Cohort 1 will be randomly assigned to one of two groups:
 
-- **Group 1 (treatment):** Schools receive subsidized literacy tutoring and CSC's full implementation support, including structured planning, coaching, and data tools, right away, beginning in the upcoming 2026–27 school year.
+- **Group 1 (treatment):** Schools receive subsidized literacy tutoring and CSC's full implementation support, including structured planning, coaching, and data tools beginning in the upcoming 2026–27 school year.
 - **Group 2 (delayed treatment):** Schools receive access to subsidized literacy tutoring from the start, but receive CSC's full implementation support in a later year (2027–28). These schools still benefit from participation and will receive a full two years of subsidized tutoring.
 
-This design allows researchers to compare outcomes between schools with and without full implementation support while ensuring that all schools receive the same benefits.
+This design allows researchers to compare outcomes between schools with and without full implementation support while ensuring that all schools receive the same benefits. 
+
+The study will include two more cohorts of schools in school years 2027-28 and 2028-29 that will also be randomly assigned to treatment and delayed treatment. 
 
 ---
 
 ## Who Is Funding This Study?
 
-The IST study is funded by the U.S. Department of Education through a competitive Education Innovation and Research (EIR) federal grant. The project runs from October 1, 2025 through September 30, 2030, with a total federal investment of $10 million. EIR grants provide funding to help create or expand promising practices that have the potential to address persistent challenges in education. [Read more about EIR grants here.](https://oese.ed.gov/offices/office-of-discretionary-grants-support-services/innovation-early-learning/education-innovation-and-research-eir/)
+The IST study is funded by the U.S. Department of Education through a competitive Education Innovation and Research (EIR) grant. The project runs from October 1, 2025 through September 30, 2030, with a total federal investment of $10 million. EIR grants provide funding to help create or expand promising practices that have the potential to address persistent challenges in education. [Read more about EIR grants here.](https://oese.ed.gov/offices/office-of-discretionary-grants-support-services/innovation-early-learning/education-innovation-and-research-eir/)
 
 ---
 
@@ -34,8 +36,8 @@ The IST study is funded by the U.S. Department of Education through a competitiv
 
 ![](images/csc-logo.png){fig-align="center" style="max-height: 60px; margin: 1rem auto 0.5rem auto; display: block;"}
 
-**CitySchools Collaborative (CSC)** leads program implementation, including recruiting schools, delivering tutoring, and providing the implementation support that is being studied.
+[CitySchools Collaborative (CSC)](aboutcsc.qmd) leads program implementation, including recruiting schools, delivering tutoring, and providing the implementation support that is being studied.
 
 ![](images/bw-logo.jpg){fig-align="center" style="max-height: 60px; margin: 1.5rem auto 0.5rem auto; display: block;"}
 
-**Bellwether** leads the independent evaluation. The research team is led by Dr. Daniela Torre Gibney, who has over a decade of experience leading education studies. Bellwether operates independently of CSC to help ensure the evaluation is objective and the study follows all proper research protocols.
+[Bellwether](aboutbw.qmd) leads the independent evaluation.
