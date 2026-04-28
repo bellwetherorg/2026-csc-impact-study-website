@@ -11,7 +11,7 @@ Participating schools commit to a focused set of actions that CSC supports throu
 2. **Sign a Data Sharing Agreement (DSA):** A standard agreement that allows CSC and researchers to access existing student roster and assessment data. This follows all applicable federal and state privacy laws.
 3. **Identify 50 or more eligible students:** Work with CSC to determine which students in grades 4–8 would benefit most from literacy tutoring.
 4. **Schedule tutoring time during the Design Sprint:** Carve out approximately 90 minutes per week of tutoring time during the school day, for a minimum of 10 weeks. CSC facilitates and supports this planning.
-5. **Share a student roster:** Before tutoring begins, share the list of students receiving tutoring.
+5. **Share a student roster:** Before tutoring begins, share the list of all students eligible for tutoring.
 6. **Implement HIT:** Implement 90 minutes a week of tutoring for at least 10 weeks for identified students.
 7. **Allow observations:** Allow CSC to monitor tutoring via two observations a year.
 8. **Share interim assessment data:** If your LEA cannot share interim literacy assessment data (NWEA MAP, i-Ready, etc.), schools will be expected to share participating students' interim assessment data at the end of the school year.
