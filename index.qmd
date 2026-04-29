@@ -1,5 +1,5 @@
 ---
-title: "CitySchools Collaborative is partnering with schools to provide science-of-reading–aligned literacy tutoring to students in grades 4–8 and support for school administrators and SEAs. They're looking for schools ready to make a difference for their readers."
+subtitle: "CitySchools Collaborative is partnering with schools to provide science-of-reading–aligned literacy tutoring to students in grades 4–8 and support for school administrators and SEAs. They're looking for schools ready to make a difference for their readers."
 ---
 
 <div style="margin: 1rem 0 2rem 0; display: flex; gap: 10px; flex-wrap: wrap;">
